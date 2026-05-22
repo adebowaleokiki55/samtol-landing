@@ -1,3 +1,3 @@
 ## Live Demo
 
-samtol-landing-mon5-va7fmnxq5-adebowale-okikis-projects.vercel.app
+[samtol-landing-mon5-va7fmnxq5-adebowale-okikis-projects.vercel.app](https://samtol-landing-mon5-va7fmnxq5-adebowale-okikis-projects.vercel.app/)
